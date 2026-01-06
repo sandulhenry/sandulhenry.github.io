@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sandulhenry.github.io/sitemap.xml
