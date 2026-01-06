@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.S. Computer Engineering @ University of California, San Diego. 
+subtitle: B.S. Computer Engineering @ University of California, San Diego.
 
 profile:
   align: right
