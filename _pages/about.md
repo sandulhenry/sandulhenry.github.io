@@ -27,6 +27,6 @@ latest_posts:
 
 Hi! My name is Sandul, and I am currently a third year undergraduate student at University of California, San Diego. I am studying Computer Engineering.
 
-At UCSD, I take part in an undergraduate design team, [Yonder Dynamics](https://yonderdynamics.org/#/). I take part in the embedded systems subteam, connecting the arm to the rest of the system enabling motor control. My interests within the field lie in robotics, digital signal processing, and personally, astronomy.
+At UCSD, I take part in an undergraduate design team, [Yonder Dynamics](https://yonderdynamics.org/#/). I take part in the embedded systems subteam, connecting the arm to the rest of the system enabling motor control. I am currently working as a research assistant at the School of Global Policy, under Professor Elizabeth Lyons, doing data analytics onboard a supercluster. My interests within the field lie in robotics, digital signal processing, and personally, astronomy.
 
 My hobbies include swimming, going to the gym, snowboarding, and coaching youth swim team.
