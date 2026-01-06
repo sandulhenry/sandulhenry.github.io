@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.S. Computer Engineering @ University of California, San Diego 
+subtitle: B.S. Computer Engineering @ University of California, San Diego
 
 profile:
   align: right
@@ -25,13 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Hi! My name is Sandul, and I am currently a third year undergraduate student at University of California, San Diego. I am studying Computer Engineering.
 
-Hi! My name is Sandul, and I am currently a third year undergraduate student at University of California, San Diego. I am studying Computer Engineering. 
-
-At UCSD, I take part in an undergraduate design team, [Yonder Dynamics](https://yonderdynamics.org/#/). I take part in the embedded systems subteam, connecting the arm to the rest of the system enabling motor control. My interests within the field lie in robotics, digital signal processing, and personally, astronomy. 
+At UCSD, I take part in an undergraduate design team, [Yonder Dynamics](https://yonderdynamics.org/#/). I take part in the embedded systems subteam, connecting the arm to the rest of the system enabling motor control. My interests within the field lie in robotics, digital signal processing, and personally, astronomy.
 
 My hobbies include swimming, going to the gym, snowboarding, and coaching youth swim team.
-
-
-
-
