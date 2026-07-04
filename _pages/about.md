@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Sandul, and I am currently a third year undergraduate student at University of California, San Diego. I am studying Computer Engineering, in the Department of Electrical and Computer Engineering, Jacobs School of Engineering
+Hi! My name is Sandul, and I am currently a fourth year undergraduate student at University of California, San Diego. I am studying Computer Engineering, in the Department of Electrical and Computer Engineering, Jacobs School of Engineering.
 
-At UCSD, I take part in an undergraduate design team, [Yonder Dynamics](https://yonderdynamics.org/#/). I take part in the embedded systems subteam, connecting the arm to the rest of the system enabling motor control. I am currently working as a [research assistant](https://sscf.ucsd.edu/ssrde) at the School of Global Policy, under Professor Elizabeth Lyons, doing data analytics onboard a batch cluster computer. My interests within the field lie in robotics, digital signal processing, and personally, astronomy.
+At UCSD, I take part in an undergraduate design team, [Yonder Dynamics](https://yonderdynamics.org/#/). I am a current software lead, supporting new members and the leadership group. My projects include inverse kinematics, system diagnostics, and hardware abstraction layers. I also have worked as a [research assistant](https://sscf.ucsd.edu/ssrde) at the School of Global Policy, doing data analytics, and more notably, entity resolution, onboard a batch cluster computer. My interests within the field lie in robotics and systems.
 
-My hobbies include swimming, going to the gym, snowboarding, coaching youth swim team, and having making fun projects with Raspberry Pis.
+My hobbies include swimming, going to the gym, snowboarding, coaching youth swim team, and making fun projects with Raspberry Pis.
