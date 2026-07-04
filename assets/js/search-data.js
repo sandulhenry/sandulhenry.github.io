@@ -399,17 +399,12 @@ ninja.data = [{
           title: 'Online Hydrogen Line Observation',
           description: "Personal Project",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/hline/";
             },},{id: "projects-yonder-dynamics",
           title: 'Yonder Dynamics',
-          description: "Personal Project",
+          description: "Undergraduate Student Org",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-online-hydrogen-line-observation",
-          title: 'Online Hydrogen Line Observation',
-          description: "Personal Project",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/template/";
+              window.location.href = "/projects/yonder/";
             },},{
         id: 'social-cv',
         title: 'CV',
