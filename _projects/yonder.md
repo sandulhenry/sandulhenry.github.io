@@ -22,4 +22,4 @@ In my first year on the team, I was a part of the Embedded Systems subteam. On m
 - Planar Inverse Kinematics
 - Hardware Abstraction Layer
 - Sandul's Super Useful Utilities
-- Drill Apparatus
+- Drill Apparatus Control
