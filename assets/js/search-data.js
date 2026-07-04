@@ -400,6 +400,16 @@ ninja.data = [{
           description: "Personal Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-yonder-dynamics",
+          title: 'Yonder Dynamics',
+          description: "Personal Project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-online-hydrogen-line-observation",
+          title: 'Online Hydrogen Line Observation',
+          description: "Personal Project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/template/";
             },},{
         id: 'social-cv',
         title: 'CV',
